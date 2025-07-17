@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Tanisha-s-ingh/Tanisha-s-ingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there, I'm Tanisha 👩‍💻
 
-- 🔭 I’m currently working on ...improving my coding skills and building personal projects
-- 🌱 I’m currently learning ...Python, JavaScript, and Data Structures & Algorithms.
-- 👯 I’m looking to collaborate on ...beginner-friendly open source projects and creative tech ideas.
-- 🤔 I’m looking for help with ... problem-solving in DSA.
-- 💬 Ask me about ...web development basics, Python, or my learning journey!
-- 📫 How to reach me: ...https://www.linkedin.com/in/tanishasinghtech/?trk=opento_sprofile_details
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I love turning small ideas into creative tech projects and I'm always exploring something new!
--->
+Welcome to my GitHub profile! I’m passionate about learning, coding, and building creative projects with Python and web technologies.
+
+- 🔭 Currently working on: Improving my Python & JavaScript skills
+- 🌱 Learning: Web development, DSA (Striver Sheet), Git & GitHub
+- 💬 Ask me about: Python, beginner projects, or how I got started!
+- 📫 How to reach me: [tanisha@example.com](mailto:tanisha@example.com) (or add LinkedIn!)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love making things look cute AND functional!
+
+---
+
+### 📌 Pinned Repositories
+Check out my projects like Hangman Game, Tinder Clone, Caesar Cipher, and more in my repos!
+
+---
+
+> Let’s connect and grow together as developers! 💖
